@@ -18,7 +18,7 @@ Estamos buscando por um projeto bem organizado e testado.
 
 ## Tarefa
 
-Usando as telas ([FIGMA](https://www.figma.com/file/E6xnTQbUwhvCZ50hMsIWEj/EduEdu---Teste)) fornecidas como referência, você irá precisar construir a aplicação e os componentes necessários utilizando React Native ou VueJS. 
+Usando as telas ([FIGMA](https://www.figma.com/file/E6xnTQbUwhvCZ50hMsIWEj/EduEdu---Teste)) fornecidas como referência, você irá precisar construir a aplicação e os componentes necessários utilizando React ou VueJS. 
 
 Não esqueça de incluir um README com instruções de *setup*, e qualquer teste ou outra documentação que você criou como parte da sua solução.
 
@@ -63,13 +63,14 @@ Encorajamos que você use as técnicas mais novas de CSS (Como flex-box) e abord
 - [ ] Deve filtrar os alunos previamente cadastrados.
 - [ ] Deve iniciar a filtragem após digitar 3 caracteres.
 
-Atentar para criação de componentes para cada parte da página (exp: menu lateral, footer, header, etc).
-Você pode assumir que não precisa lidar com suporte a browsers legados que não possuam funcionalidades como flexbox.
-
 #### 3. Cadastro de criança
 - [ ] Deve permitir alterar o avatar da criança.
 - [ ] Todos os campos devem estar preenchidos e o checkbox de aceite de termos ativado para que o usuário consiga cadastrar uma criança.
 - [ ] Ao cadastrar é exibida a listagem de crianças atualizada.
+
+Atentar para criação de componentes para cada parte da página (exp: menu lateral, footer, header, etc).
+Você pode assumir que não precisa lidar com suporte a browsers legados que não possuam funcionalidades como flexbox.
+
 <br>
 <br>
 
@@ -79,7 +80,7 @@ Estes não são obrigatórios, mas será um grande plus se você implementar. Aq
 
 - Implementar a solução usando TypeScript.
 
-- Implementar a solução usando VueJS ou React Native.
+- Implementar a solução usando VueJS ou React.
 
 - Responsivo para mobile device.
 
@@ -105,12 +106,12 @@ Antes de tudo, os projetos dos candidatos devem ter todos os requerimentos da ta
 <br>
 
 
-| Requerimentos base| Point |          
+| Requerimentos base| Pontos |          
 | --- | --- |
 | Funcionalidades | 10 Pontos por tela completa |
-| (React ou VueJS) & State Management | 20 Points |
-| Em produção & Boas práticas | 15 Points |
-| Estruturação de pastas e arquivos do projeto | 5 Points |
+| (React ou VueJS) & State Management | 20 Pontos |
+| Em produção & Boas práticas | 15 Pontos |
+| Estruturação de pastas e arquivos do projeto | 5 Pontos |
 <br>
 
 Você ganhará pontos extra se implementar funcionalidades extras.
@@ -118,9 +119,9 @@ Você ganhará pontos extra se implementar funcionalidades extras.
 
 
 
-| Bonus   | Point |          
+| Bonus   | Pontos |          
 | --- | --- |
-| Cada funcionalidade extra | 5 Point |
-| Utilizar o lottie na seleção do ano escolar | 5 Point |
-| Git commit history| 10 Point |
-| Unit Tests | 20 Point |
+| Cada funcionalidade extra | 5 Pontos |
+| Utilizar o lottie na seleção do ano escolar | 5 Pontos |
+| Git commit history| 10 Pontos |
+| Unit Tests por tela | 20 Pontos |
