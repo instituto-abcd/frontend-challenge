@@ -18,7 +18,7 @@ Estamos buscando por um projeto bem organizado e testado.
 
 ## Tarefa
 
-Usando as telas ([FIGMA](https://www.figma.com/file/E6xnTQbUwhvCZ50hMsIWEj/EduEdu---Teste)) fornecidas como referência, você irá precisar construir a aplicação e os componentes necessários utilizando React ou VueJS. 
+Usando as telas ([FIGMA](https://www.figma.com/file/E6xnTQbUwhvCZ50hMsIWEj/EduEdu---Teste)) fornecidas como referência, você irá precisar construir a aplicação e os componentes necessários utilizando VueJS. 
 
 Não esqueça de incluir um README com instruções de *setup*, e qualquer teste ou outra documentação que você criou como parte da sua solução.
 
@@ -80,7 +80,7 @@ Estes não são obrigatórios, mas será um grande plus se você implementar. Aq
 
 - Implementar a solução usando TypeScript.
 
-- Implementar a solução usando VueJS ou React.
+- Implementar a solução usando VueJS.
 
 - Responsivo para mobile device.
 
@@ -109,7 +109,7 @@ Antes de tudo, os projetos dos candidatos devem ter todos os requerimentos da ta
 | Requerimentos base| Pontos |          
 | --- | --- |
 | Funcionalidades | 10 Pontos por tela completa |
-| (React ou VueJS) & State Management | 20 Pontos |
+| VueJS & State Management | 20 Pontos |
 | Em produção & Boas práticas | 15 Pontos |
 | Estruturação de pastas e arquivos do projeto | 5 Pontos |
 <br>
